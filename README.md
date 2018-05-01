@@ -13,6 +13,8 @@ A Flipped Interview moves all the question/answer and capability demonstration t
 
 This repo describes why you might want to implement this model and how I envision this process working. I should mention that as a hiring manager I've implemented parts of this in my own interview processes, but I have not had a chance to use this process as it's described here. If you're interested in trying it, do connect with me on email at jwrubel (at) gmail dot com or on [twitter](https://twitter.com/jameswrubel) if you use that network.
 
+I should also point out that while I'm a hiring manager and I try to stay up on best practices, it's definitely possible that organizations are using some variant of this process and I just don't know about it. Maybe this is already common practice! If you've tried this already I would_love_ to know how it works for you. Let [me know](#getting-involved) what you think!
+
 This project is [licensed](LICENSE.md) under the GNU Free Documentation License so you should feel free to contribute changes or adapt it to your specific needs, if you decide to try it. Not sure what that means? See [tl;dr legal](https://tldrlegal.com/license/gnu-free-documentation-license) for an overview of the license terms in plain English.
 
 Want to help out? Want to suggest an improvement or just yell at the author? See the [Getting Involved](#getting-involved) section for more ways you can do so.
