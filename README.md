@@ -38,6 +38,8 @@ You might consider using a service like [Textio](https://textio.com/) to screen 
 
 It's more important here that the organization agrees on the questions and the process than the actual questions you use.
 
+Also important: consult your HR office. They may be reluctant at first; that's natural, because change in a business setting means risk. But you'll want them on your side and involved. Try to emphasize that you aren't changing _what's_ asked, just _how_ it's asked.
+
 ### Screening
 In a normal interview process you'd use a short phone screen to speak with candidates whose résumés look strong. It's used as a mini-interview; usually you ask for the person to walk through their résumé and talk about the company and the position. The risk here is even at this stage you're already making decisions about candidates, and you may be unintentionally forming biases.
 
