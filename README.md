@@ -61,9 +61,9 @@ In this process you'll spend however long the interview is reviewing the questio
 
 I highly recommend having all of your interviewers attend at the same time. It's more time-efficient, and it gives them all the same baseline of information to use when evaluating the candidate.
 
-It's also worth noting that this process could be conducted remotely too through a virtual meeting, depending on the tools used.
+It's also worth noting that this process could also be conducted remotely through a virtual meeting, depending on the tools used.
 
-As an outcome here each candidate should provide independent feedback on the candidate based on whatever you've established as a process. Personally I think it's important that interviewers not discuss candidates with each other prior to submitting feedback.
+As an outcome here, each interviewer should provide independent feedback on the candidate based on whatever you've established as a process. Personally I think it's important that interviewers not discuss candidates with each other prior to submitting feedback.
 
 ### Follow up
 Hopefully as a result of this process you've got an objective ranking of candidates that you can use for making a decision. Hopefully this process was also more inclusive, and candidates from diverse or under-represented groups are better able to present themselves as candidates.
