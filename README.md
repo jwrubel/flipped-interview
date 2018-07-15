@@ -15,7 +15,7 @@ This repo describes why you might want to implement this model and how I envisio
 
 My [slide deck](https://www.beautiful.ai/deck/-LBBNBKF5JwsC5q8VSrv/So-what-do-you-do-in-your-spare-time) for [Erie Day of Code 2018](https://eriedayofcode.com/) also talks about the flipped interview model.
 
-I should also point out that while I'm a hiring manager and I try to stay up on best practices, it's definitely possible that organizations are using some variant of this process and I just don't know about it. Maybe this is already common practice! If you've tried this already I would_love_ to know how it works for you. Let [me know](#getting-involved) what you think!
+I should also point out that while I'm a hiring manager and I try to stay up on best practices, it's definitely possible that organizations are using some variant of this process and I just don't know about it. Maybe this is already common practice! If you've tried this already, I would _love_ to know how it works for you. Let [me know](#getting-involved) what you think!
 
 This project is [licensed](LICENSE.md) under the GNU Free Documentation License so you should feel free to contribute changes or adapt it to your specific needs, if you decide to try it. Not sure what that means? See [tl;dr legal](https://tldrlegal.com/license/gnu-free-documentation-license) for an overview of the license terms in plain English.
 
